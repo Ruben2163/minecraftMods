@@ -11,10 +11,10 @@ import net.minecraft.util.Identifier;
 import net.ruben.plants_vs_zombies.Plants_vs_zombies;
 
 public class ModItems {
-    public static final Item RUBY = registerItems("ruby", new Item(new FabricItemSettings()));
+    public static final Item SUNFLOWER_SEED_PACKET = registerItems("sunflower seed packet", new Item(new FabricItemSettings()));
 
     public static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
-        entries.add(RUBY);
+        entries.add(SUNFLOWER_SEED_PACKET);
     }
 
     private static Item registerItems(String name, Item item) {
