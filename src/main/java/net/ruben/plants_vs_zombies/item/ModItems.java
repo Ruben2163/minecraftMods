@@ -22,6 +22,12 @@ public class ModItems {
     public static final Item SNOWPEASEEDS= registerItems("snowpeaseeds", new Item(new FabricItemSettings()));
     public static final Item SUNSHROOMSEEDS= registerItems("sunshroomseeds", new Item(new FabricItemSettings()));
     public static final Item WALLNUTSEEDS= registerItems("wallnutseeds", new Item(new FabricItemSettings()));
+    public static final Item DOOMSHROOMSEEDS= registerItems("doomshroomseeds", new Item(new FabricItemSettings()));
+    public static final Item ICESHROOMSEEDS= registerItems("iceshroomseeds", new Item(new FabricItemSettings()));
+    public static final Item LILYPADSEEDS= registerItems("lilypadseeds", new Item(new FabricItemSettings()));
+    public static final Item SCARDEYSEEDS= registerItems("scardeyseeds", new Item(new FabricItemSettings()));
+    public static final Item SQUASHSEEDS= registerItems("squashseeds", new Item(new FabricItemSettings()));
+    public static final Item THREEPEATERSEEDS= registerItems("threepeaterseeds", new Item(new FabricItemSettings()));
     public static final Item SUN= registerItems("sun", new Item(new FabricItemSettings()));
     public static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
         entries.add(SUNFLOWERSEEDS);
@@ -36,6 +42,12 @@ public class ModItems {
         entries.add(SUNSHROOMSEEDS);
         entries.add(WALLNUTSEEDS);
         entries.add(SUN);
+        entries.add(DOOMSHROOMSEEDS);
+        entries.add(ICESHROOMSEEDS);
+        entries.add(LILYPADSEEDS);
+        entries.add(SCARDEYSEEDS);
+        entries.add(SQUASHSEEDS);
+        entries.add(THREEPEATERSEEDS);
     }
 
     private static Item registerItems(String name, Item item) {

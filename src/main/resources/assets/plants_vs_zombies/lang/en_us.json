@@ -1,4 +1,5 @@
 {
+  "item.plants_vs_zombies.sun": "Sun",
   "item.plants_vs_zombies.cherrybombseeds": "Cherrybomb Seeds",
   "item.plants_vs_zombies.chomperseeds": "Chomper Seeds",
   "item.plants_vs_zombies.gravebusterseeds": "Gravebuster Seeds",
@@ -8,7 +9,12 @@
   "item.plants_vs_zombies.repeaterseeds": "Repeater Seeds",
   "item.plants_vs_zombies.snowpeaseeds": "Snowpea Seeds",
   "item.plants_vs_zombies.sunflowerseeds": "Sunflower Seeds",
-  "item.plants_vs_zombies.sunshroomseeds": "Sunshroom seeds",
-  "item.plants_vs_zombies.sun": "Sun",
-  "item.plants_vs_zombies.wallnutseeds": "Wallnut seeds"
+  "item.plants_vs_zombies.sunshroomseeds": "Sunshroom Seeds",
+  "item.plants_vs_zombies.wallnutseeds": "Wallnut Seeds",
+  "item.plants_vs_zombies.doomshroomseeds": "Doomshroom Seeds",
+  "item.plants_vs_zombies.iceshroomseeds": "Iceshroom Seeds",
+  "item.plants_vs_zombies.scardeyseeds": "Scardeyshroom Seeds",
+  "item.plants_vs_zombies.squashseeds": "Squash Seeds",
+  "item.plants_vs_zombies.threepeaterseeds": "Treepeater Seeds",
+  "item.plants_vs_zombies.lilypadseeds": "Lilypad Seeds"
 }

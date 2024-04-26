@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "catagory": "misc",
+  "pattern": [
+    "DDD",
+    "DSD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dirt_block"
+    },
+    "S": {
+      "item": "plants_vs_zombies:sun"
+    }
+  },
+  "result": {
+    "item": "plants_vs_zombies:peashooter"
+  }
+}
