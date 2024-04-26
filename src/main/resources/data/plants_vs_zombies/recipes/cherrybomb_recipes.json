@@ -3,7 +3,7 @@
   "catagory": "misc",
   "key": {
     "#": {
-      "item": "minecraft:dirt"
+      "item": "minecraft:sweet_berries"
     },
     "S": {
       "item": "plants_vs_zombies:sun"
@@ -15,6 +15,6 @@
     "###"
   ],
   "result": {
-    "item": "plants_vs_zombies:peashooterseeds"
+    "item": "plants_vs_zombies:cherrybombseeds"
   }
 }
