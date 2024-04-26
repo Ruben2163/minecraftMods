@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "plants_vs_zombies:item/sunflower seed packet"
+    "layer0": "plants_vs_zombies:item/sunflower_seeds"
   }
 }
