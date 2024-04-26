@@ -1,3 +1,14 @@
 {
-  "item.plants_vs_zombies.ruby": "Ruby"
+  "item.plants_vs_zombies.cherrybombseeds": "Cherrybomb Seeds",
+  "item.plants_vs_zombies.chomperseeds": "Chomper Seeds",
+  "item.plants_vs_zombies.gravebusterseeds": "Gravebuster Seeds",
+  "item.plants_vs_zombies.peashooterseeds": "Peashooter Seeds",
+  "item.plants_vs_zombies.potatomineseeds": "Potatomine Seeds",
+  "item.plants_vs_zombies.puffshroomseeds": "Puffshroom Seeds",
+  "item.plants_vs_zombies.repeaterseeds": "Repeater Seeds",
+  "item.plants_vs_zombies.snowpeaseeds": "Snowpea Seeds",
+  "item.plants_vs_zombies.sunflowerseeds": "Sunflower Seeds",
+  "item.plants_vs_zombies.sunshroomseeds": "Sunshroom seeds",
+  "item.plants_vs_zombies.sun": "Sun",
+  "item.plants_vs_zombies.wallnutseeds": "Wallnut seeds"
 }

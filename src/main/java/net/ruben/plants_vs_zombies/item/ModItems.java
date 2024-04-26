@@ -11,10 +11,31 @@ import net.minecraft.util.Identifier;
 import net.ruben.plants_vs_zombies.Plants_vs_zombies;
 
 public class ModItems {
-    public static final Item SUNFLOWER_SEED_PACKET = registerItems("sunflower seed packet", new Item(new FabricItemSettings()));
-
+    public static final Item SUNFLOWERSEEDS= registerItems("sunflowerseeds", new Item(new FabricItemSettings()));
+    public static final Item CHERRYBOMBSEEDS= registerItems("cherrybombseeds", new Item(new FabricItemSettings()));
+    public static final Item CHOMPERSEEDS= registerItems("chomperseeds", new Item(new FabricItemSettings()));
+    public static final Item GRAVEBUSTERSEEDS= registerItems("gravebusterseeds", new Item(new FabricItemSettings()));
+    public static final Item PEASHOOTERSEEDS= registerItems("peashooterseeds", new Item(new FabricItemSettings()));
+    public static final Item POTATOMINESEEDS= registerItems("potatomineseeds", new Item(new FabricItemSettings()));
+    public static final Item PUFFSHROOMSEEDS= registerItems("puffshroomseeds", new Item(new FabricItemSettings()));
+    public static final Item REPEATERSEEDS= registerItems("repeaterseeds", new Item(new FabricItemSettings()));
+    public static final Item SNOWPEASEEDS= registerItems("snowpeaseeds", new Item(new FabricItemSettings()));
+    public static final Item SUNSHROOMSEEDS= registerItems("sunshroomseeds", new Item(new FabricItemSettings()));
+    public static final Item WALLNUTSEEDS= registerItems("wallnutseeds", new Item(new FabricItemSettings()));
+    public static final Item SUN= registerItems("sun", new Item(new FabricItemSettings()));
     public static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
-        entries.add(SUNFLOWER_SEED_PACKET);
+        entries.add(SUNFLOWERSEEDS);
+        entries.add(CHERRYBOMBSEEDS);
+        entries.add(CHOMPERSEEDS);
+        entries.add(GRAVEBUSTERSEEDS);
+        entries.add(PEASHOOTERSEEDS);
+        entries.add(POTATOMINESEEDS);
+        entries.add(PUFFSHROOMSEEDS);
+        entries.add(REPEATERSEEDS);
+        entries.add(SNOWPEASEEDS);
+        entries.add(SUNSHROOMSEEDS);
+        entries.add(WALLNUTSEEDS);
+        entries.add(SUN);
     }
 
     private static Item registerItems(String name, Item item) {
