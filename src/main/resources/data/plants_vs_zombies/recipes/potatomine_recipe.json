@@ -3,19 +3,20 @@
   "catagory": "misc",
   "key": {
     "#": {
-      "item": "minecraft:sweet_berries"
+      "item": "minecraft:wheat"
     },
     "S": {
       "item": "plants_vs_zombies:sun"
-    }
+    },
+    "item": "minecraft:tnt"
   },
   "pattern": [
-    "###",
+    "#T#",
     "#S#",
     "###"
   ],
   "result": {
     "count": 10,
-    "item": "plants_vs_zombies:cherrybombseeds"
+    "item": "plants_vs_zombies:wallnutseeds"
   }
 }
