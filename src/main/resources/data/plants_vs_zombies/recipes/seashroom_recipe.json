@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "catagory": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:kelp"
+    },
+    "S": {
+      "item": "plants_vs_zombies:puffshroomseeds"
+    },
+    "pattern": [
+      "###",
+      "#S#",
+      "### "
+    ],
+    "result": {
+      "count": 10,
+      "item": "plants_vs_zombies:seashroomseeds"
+    }
+  }
+}

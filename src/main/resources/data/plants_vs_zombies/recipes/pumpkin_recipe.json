@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item":"plants_vs_zombies:sun"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "plants_vs_zombies:pumpkinseeds"
+  }
+}

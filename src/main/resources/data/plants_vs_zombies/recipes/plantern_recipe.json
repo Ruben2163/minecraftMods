@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "catagory": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:lantern"
+    },
+    "S": {
+      "item": "plants_vs_zombies:sun"
+    }
+  },
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "result": {
+    "count": 10,
+    "item": "plants_vs_zombies:planternseeds"
+  }
+}
