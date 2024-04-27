@@ -3,22 +3,19 @@
   "catagory": "misc",
   "key": {
     "#": {
-      "item": "minecraft:wheat"
+      "item": "minecraft:cobblestone"
     },
     "S": {
       "item": "plants_vs_zombies:sun"
-    },
-    "T": {
-      "item": "minecraft:tnt"
     }
-    },
+  },
   "pattern": [
-    "#T#",
+    "###",
     "#S#",
     "###"
   ],
   "result": {
     "count": 10,
-    "item": "plants_vs_zombies:potatomineseeds"
+    "item": "plants_vs_zombies:gravebusterseeds"
   }
 }

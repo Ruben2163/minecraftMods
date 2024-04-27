@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:red_mushroom"
+    }
+  ],
+  "result": {
+    "count": 10,
+    "item": "plants_vs_zombies:puffshroomseeds"
+  }
+}

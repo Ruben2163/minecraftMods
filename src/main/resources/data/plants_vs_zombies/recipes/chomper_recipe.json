@@ -3,22 +3,22 @@
   "catagory": "misc",
   "key": {
     "#": {
-      "item": "minecraft:wheat"
+      "item": "minecraft:rotten_flesh"
     },
     "S": {
       "item": "plants_vs_zombies:sun"
     },
-    "T": {
-      "item": "minecraft:tnt"
+    "P": {
+      "item": "minecraft:pointed_dripstone"
     }
-    },
+  },
   "pattern": [
-    "#T#",
+    "###",
     "#S#",
-    "###"
+    "P#P"
   ],
   "result": {
     "count": 10,
-    "item": "plants_vs_zombies:potatomineseeds"
+    "item": "plants_vs_zombies:chomperseeds"
   }
 }
