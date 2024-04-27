@@ -44,6 +44,19 @@ public class ModItems {
     public static final Item TALLNUTSEEDS= registerItems("tallnutseeds", new Item(new FabricItemSettings()));
     public static final Item TANGLEKELPSEEDS= registerItems("tanglekelpseeds", new Item(new FabricItemSettings()));
     public static final Item TORCHWOODSEEDS= registerItems("torchwoodseeds", new Item(new FabricItemSettings()));
+    public static final Item CATTAILSEEDS= registerItems("cattailseeds", new Item(new FabricItemSettings()));
+    public static final Item COBCANNONSEEDS= registerItems("cobcannonseeds", new Item(new FabricItemSettings()));
+    public static final Item GARLICSEEDS= registerItems("garlicseeds", new Item(new FabricItemSettings()));
+    public static final Item GATLINGPEASEEDS= registerItems("gatlingpeaseeds", new Item(new FabricItemSettings()));
+    public static final Item GLOOMSHROOMSEEDS= registerItems("gloomshroomseeds", new Item(new FabricItemSettings()));
+    public static final Item GOLDMAGNETSEEDS= registerItems("goldmagnetseeds", new Item(new FabricItemSettings()));
+    public static final Item KERNALPULTSEEDS= registerItems("kernalpultseeds", new Item(new FabricItemSettings()));
+    public static final Item MARIGOLDSEEDS= registerItems("marigoldseeds", new Item(new FabricItemSettings()));
+    public static final Item PLANTPOTSEEDS= registerItems("plantpotseeds", new Item(new FabricItemSettings()));
+    public static final Item SPIKEROCKSEEDS= registerItems("spikerockseeds", new Item(new FabricItemSettings()));
+    public static final Item TWINSUNFLOWERSEEDS= registerItems("twinsunflowerseeds", new Item(new FabricItemSettings()));
+    public static final Item UMBRELLALEAFSEEDS= registerItems("umbrellaleafseeds", new Item(new FabricItemSettings()));
+    public static final Item WINTERMELONSEEDS= registerItems("wintermelonseeds", new Item(new FabricItemSettings()));
     public static final Item SUN= registerItems("sun", new Item(new FabricItemSettings()));
     public static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
         entries.add(SUNFLOWERSEEDS);
@@ -80,6 +93,20 @@ public class ModItems {
         entries.add(TALLNUTSEEDS);
         entries.add(TANGLEKELPSEEDS);
         entries.add(TORCHWOODSEEDS);
+        entries.add(CATTAILSEEDS);
+        entries.add(COBCANNONSEEDS);
+        entries.add(GARLICSEEDS);
+        entries.add(GATLINGPEASEEDS);
+        entries.add(GLOOMSHROOMSEEDS);
+        entries.add(GOLDMAGNETSEEDS);
+        entries.add(GOLDMAGNETSEEDS);
+        entries.add(KERNALPULTSEEDS);
+        entries.add(MARIGOLDSEEDS);
+        entries.add(PLANTPOTSEEDS);
+        entries.add(SPIKEROCKSEEDS);
+        entries.add(TWINSUNFLOWERSEEDS);
+        entries.add(UMBRELLALEAFSEEDS);
+        entries.add(WINTERMELONSEEDS);
     }
 
     private static Item registerItems(String name, Item item) {
