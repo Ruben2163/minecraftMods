@@ -28,6 +28,22 @@ public class ModItems {
     public static final Item SCARDEYSEEDS= registerItems("scardeyseeds", new Item(new FabricItemSettings()));
     public static final Item SQUASHSEEDS= registerItems("squashseeds", new Item(new FabricItemSettings()));
     public static final Item THREEPEATERSEEDS= registerItems("threepeaterseeds", new Item(new FabricItemSettings()));
+    public static final Item BLOVERSEEDS= registerItems("bloverseeds", new Item(new FabricItemSettings()));
+    public static final Item CABBAGEPULTSEEDS= registerItems("cabbagepultseeds", new Item(new FabricItemSettings()));
+    public static final Item CACTUSSEEDS= registerItems("cactusseeds", new Item(new FabricItemSettings()));
+    public static final Item FUMESHROOMSEEDS= registerItems("fumeshroomseeds", new Item(new FabricItemSettings()));
+    public static final Item HYPNOSHROOMSEEDS= registerItems("hypnoshroomseeds", new Item(new FabricItemSettings()));
+    public static final Item JALAPENOSEEDS= registerItems("jalapenoseeds", new Item(new FabricItemSettings()));
+    public static final Item MAGNETSHROOMSEEDS= registerItems("magnetshroomseeds", new Item(new FabricItemSettings()));
+    public static final Item PLANTERNSEEDS= registerItems("planternseeds", new Item(new FabricItemSettings()));
+    public static final Item PUMPKINSEEDS= registerItems("pumpkinseeds", new Item(new FabricItemSettings()));
+    public static final Item SEASHROOMSEEDS= registerItems("seashroomseeds", new Item(new FabricItemSettings()));
+    public static final Item SPIKEWEEDSEEDS= registerItems("spikeweedseeds", new Item(new FabricItemSettings()));
+    public static final Item SPLITPEASEEDS= registerItems("splitpeaseeds", new Item(new FabricItemSettings()));
+    public static final Item STARFRUITSEEDS= registerItems("starfruitseeds", new Item(new FabricItemSettings()));
+    public static final Item TALLNUTSEEDS= registerItems("tallnutseeds", new Item(new FabricItemSettings()));
+    public static final Item TANGLEKELPSEEDS= registerItems("tanglekelpseeds", new Item(new FabricItemSettings()));
+    public static final Item TORCHWOODSEEDS= registerItems("torchwoodseeds", new Item(new FabricItemSettings()));
     public static final Item SUN= registerItems("sun", new Item(new FabricItemSettings()));
     public static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
         entries.add(SUNFLOWERSEEDS);
@@ -48,6 +64,22 @@ public class ModItems {
         entries.add(SCARDEYSEEDS);
         entries.add(SQUASHSEEDS);
         entries.add(THREEPEATERSEEDS);
+        entries.add(BLOVERSEEDS);
+        entries.add(CABBAGEPULTSEEDS);
+        entries.add(CACTUSSEEDS);
+        entries.add(FUMESHROOMSEEDS);
+        entries.add(HYPNOSHROOMSEEDS);
+        entries.add(JALAPENOSEEDS);
+        entries.add(MAGNETSHROOMSEEDS);
+        entries.add(PLANTERNSEEDS);
+        entries.add(PUMPKINSEEDS);
+        entries.add(SEASHROOMSEEDS);
+        entries.add(SPIKEWEEDSEEDS);
+        entries.add(SPLITPEASEEDS);
+        entries.add(STARFRUITSEEDS);
+        entries.add(TALLNUTSEEDS);
+        entries.add(TANGLEKELPSEEDS);
+        entries.add(TORCHWOODSEEDS);
     }
 
     private static Item registerItems(String name, Item item) {
