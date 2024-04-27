@@ -1,1 +1,2 @@
-This repository is going to become a collection of minecraft mods for fabric and the current MC version this are coded my me and blocks, items and mods will be designed by my friend Khushman. 
+This repository is for a plants vs zombies mod i am writing the code and my friend Khushman0
+The mod requres the fabric API and it runs on Minecraft version 1.20.1 and the newest version of fabric.
