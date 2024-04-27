@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "catagory": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:dirt"
+    },
+    "S": {
+      "item": "plants_vs_zombies:sun"
+    },
+    "D": {
+      "item": "minecraft:pointed_dripstone"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "DSD",
+    "###"
+  ],
+  "result": {
+    "count": 10,
+    "item": "plants_vs_zombies:spikeweedseeds"
+  }
+}

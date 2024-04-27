@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "plants_vs_zombies:peashooterseeds"
+    },
+    {
+      "item":"plants_vs_zombies:peashooterseeds"
+    },
+    {
+      "item":"plants_vs_zombies:peashooterseeds"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "plants_vs_zombies:threepeaterseeds"
+  }
+}

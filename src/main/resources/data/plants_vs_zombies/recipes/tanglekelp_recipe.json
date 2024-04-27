@@ -3,10 +3,10 @@
   "catagory": "misc",
   "key": {
     "#": {
-      "item": "minecraft:wheat_seeds"
+      "item": "minecraft:kelp"
     },
     "S": {
-      "item": "minecraft:sunflower"
+      "item": "plants_vs_zombies:sun"
     }
   },
   "pattern": [
@@ -16,6 +16,6 @@
   ],
   "result": {
     "count": 10,
-    "item": "plants_vs_zombies:sunflowerseeds"
+    "item": "plants_vs_zombies:tanglekelpseeds"
   }
 }

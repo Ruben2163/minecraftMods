@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "catagory": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "S": {
+      "item": "plants_vs_zombies:sun"
+    },
+    "P": {
+      "item": "minecraft:spider_eye"
+    },
+    "F": {
+      "item": "minecraft:pufferfish"
+    }
+  },
+  "pattern": [
+    "#P#",
+    "FSP",
+    "#F#"
+  ],
+  "result": {
+    "count": 10,
+    "item": "plants_vs_zombies:hypnoshroomseeds"
+  }
+}
